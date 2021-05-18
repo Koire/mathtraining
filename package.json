@@ -1,0 +1,27 @@
+{
+  "name": "mathtraining",
+  "version": "1.0.0",
+  "description": "Simple app for training math",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Koire/mathtraining.git"
+  },
+  "keywords": [
+    "math",
+    "training",
+    "study",
+    "javascript",
+    "cross",
+    "platform"
+  ],
+  "author": "Koire",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Koire/mathtraining/issues"
+  },
+  "homepage": "https://github.com/Koire/mathtraining#readme"
+}
